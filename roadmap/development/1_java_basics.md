@@ -4,10 +4,10 @@
 
 ## 1.1 Environment Setup
 
-- [+ ] **Install JDK:** Download and install the Java Development Kit (JDK) of the appropriate version.
-- [+ ] **Configure environment variables:** Add paths (`JAVA_HOME`, `PATH`) to use JDK from the command line.
-- [ +] **Install IDE:** Choose and install an Integrated Development Environment (IDE), such as IntelliJ IDEA, for comfortable coding.
-- [ +] **First program (Hello World):** Verify your setup by creating and running a simple **Hello World** program.
+- [+] **Install JDK:** Download and install the Java Development Kit (JDK) of the appropriate version.
+- [+] **Configure environment variables:** Add paths (`JAVA_HOME`, `PATH`) to use JDK from the command line.
+- [+] **Install IDE:** Choose and install an Integrated Development Environment (IDE), such as IntelliJ IDEA, for comfortable coding.
+- [+] **First program (Hello World):** Verify your setup by creating and running a simple **Hello World** program.
 
 ### 🧩 Practical Tasks 1.1
 
