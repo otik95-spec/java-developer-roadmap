@@ -12,11 +12,11 @@
 ### 🧩 Practical Tasks 1.1
 
 1. **Hello World in a text editor:**  
-   Create a file `Hello.java` in a text editor containing a program that prints "Hello World".  
+   Create a file `Hello.java` in a text editor containing a program that prints "Hello World".  // COMPLETED
    Compile it using `javac Hello.java` and run it with `java Hello` from the terminal.
 
 2. **Hello World in IDE:**  
-   Create a class with a `main` method in your IDE that prints "Hello World" to the console.  
+   Create a class with a `main` method in your IDE that prints "Hello World" to the console.  // COMPLETED
    Run the program to verify it works.
 
 ---
