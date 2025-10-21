@@ -261,4 +261,4 @@
 ---
 
 ✅ **End of Section 6 — Concurrent and Asynchronous Programming in Java**  
-Next: [7. Working with Databases, JDBC, JPA, and Hibernate →](./7_databases_jdbc_jpa_hibernate.md)
+Next: [7. Working with Databases, JDBC, JPA, and Hibernate →](7_databases_jdbc_jpa_hibernate.md)

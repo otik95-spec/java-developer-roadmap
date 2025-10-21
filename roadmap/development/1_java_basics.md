@@ -153,4 +153,4 @@
 ---
 
 ✅ **End of Section 1 — Java Programming Basics**  
-Next: [2. Object-Oriented Programming in Java →](./2_object_oriented_programming.md)
+Next: [2. Object-Oriented Programming in Java →](2_object_oriented_programming.md)

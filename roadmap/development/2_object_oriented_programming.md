@@ -225,4 +225,4 @@
 ---
 
 ✅ **End of Section 2 — Object-Oriented Programming in Java**  
-Next: [3. Java Language Mechanisms →](./3_language_mechanics.md)
+Next: [3. Java Language Mechanisms →](3_language_mechanics.md)

@@ -240,4 +240,4 @@
 ---
 
 ✅ **End of Section 3 — Java Language Mechanisms**  
-Next: [4. Working with Utilities and Core APIs →](./4_utilities_and_api.md)
+Next: [4. Working with Utilities and Core APIs →](4_utilities_and_api.md)

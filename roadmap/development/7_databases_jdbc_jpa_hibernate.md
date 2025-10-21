@@ -265,4 +265,4 @@
 ---
 
 ✅ **End of Section 7 — Working with Databases, JDBC, JPA, and Hibernate**  
-Next: [8. Spring Framework and Spring Boot →](./8_spring_and_spring_boot.md)
+Next: [8. Spring Framework and Spring Boot →](8_spring_and_spring_boot.md)

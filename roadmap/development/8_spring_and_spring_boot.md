@@ -265,4 +265,4 @@
 ---
 
 ✅ **End of Section 8 — Spring Framework and Spring Boot**  
-Next: [9. Spring Advanced: Security, WebFlux, Messaging, Cloud →](./9_spring_advanced_security_cloud.md)
+Next: [9. Spring Advanced: Security, WebFlux, Messaging, Cloud →](9_spring_advanced_security_cloud.md)
